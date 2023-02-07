@@ -1,0 +1,2 @@
+# LearningPython
+Issac sensei moment
